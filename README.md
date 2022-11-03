@@ -37,7 +37,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@deno/mod.js';
+import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@v0.0.8-deno/mod.js';
 ```
 
 #### GAMMA_LANCZOS_G
@@ -60,7 +60,7 @@ var bool = ( GAMMA_LANCZOS_G === 10.900511 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@deno/mod.js';
+import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@v0.0.8-deno/mod.js';
 
 console.log( GAMMA_LANCZOS_G );
 // => 10.900511
