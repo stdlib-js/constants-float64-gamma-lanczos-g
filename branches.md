@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/gamma-lanczos-g"
-click B href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/main"
-click C href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/production"
-click D href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/esm"
-click E href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/deno"
-click F href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/gamma-lanczos-g"
+%% click B href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/main"
+%% click C href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/production"
+%% click D href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/esm"
+%% click E href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/deno"
+%% click F href "https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/gamma-lanczos-g
