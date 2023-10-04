@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@esm/index.mjs';
+import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@v0.1.1-esm/index.mjs';
 ```
 
 #### GAMMA_LANCZOS_G
@@ -76,7 +76,7 @@ var bool = ( GAMMA_LANCZOS_G === 10.900511 );
 <body>
 <script type="module">
 
-import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@esm/index.mjs';
+import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@v0.1.1-esm/index.mjs';
 
 console.log( GAMMA_LANCZOS_G );
 // => 10.900511
