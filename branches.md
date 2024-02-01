@@ -24,9 +24,9 @@ This repository has the following branches:
 
 -   **main**: default branch generated from the [stdlib project][stdlib-url], where all development takes place.
 -   **production**: [production build][production-url] of the package (e.g., reformatted error messages to reduce bundle sizes and thus the number of bytes transmitted over a network).
--   **esm**: [ES Module][esm-url] branch for use via a `script` tag without the need for installation and bundlers.
--   **deno**: [Deno][deno-url] branch for use in Deno.
--   **umd**: [UMD][umd-url] branch for use in Observable, or in dual browser/Node.js environments.
+-   **esm**: [ES Module][esm-url] branch for use via a `script` tag without the need for installation and bundlers (see [README][esm-readme]).
+-   **deno**: [Deno][deno-url] branch for use in Deno (see [README][deno-readme]).
+-   **umd**: [UMD][umd-url] branch for use in Observable, or in dual browser/Node.js environments (see [README][umd-readme]).
 
 The following diagram illustrates the relationships among the above branches:
 
@@ -49,5 +49,8 @@ C -->|bundle| F[umd];
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/gamma-lanczos-g
 [production-url]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/production
 [deno-url]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/deno
+[deno-readme]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/blob/deno/README.md
 [umd-url]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/umd
+[umd-readme]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/blob/umd/README.md
 [esm-url]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tree/esm
+[esm-readme]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/blob/esm/README.md
