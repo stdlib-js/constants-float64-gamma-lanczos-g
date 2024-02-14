@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-gamma-lanczos-g/tags). For example,
+
+```javascript
 import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@v0.2.0-deno/mod.js';
 ```
 
@@ -71,7 +76,7 @@ var bool = ( GAMMA_LANCZOS_G === 10.900511 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@v0.2.0-deno/mod.js';
+import GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-gamma-lanczos-g@deno/mod.js';
 
 console.log( GAMMA_LANCZOS_G );
 // => 10.900511
