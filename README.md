@@ -29,7 +29,7 @@ limitations under the License.
   <p>To join us in bringing numerical computing to the web, get started by checking us out on <a href="https://github.com/stdlib-js/stdlib">GitHub</a>, and please consider <a href="https://opencollective.com/stdlib">financially supporting stdlib</a>. We greatly appreciate your continued support!</p>
 </details>
 
-# GAMMA_LANCZOS_G
+# FLOAT64_GAMMA_LANCZOS_G
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
@@ -66,15 +66,15 @@ To view installation and usage instructions specific to each branch build, be su
 ## Usage
 
 ```javascript
-var GAMMA_LANCZOS_G = require( '@stdlib/constants-float64-gamma-lanczos-g' );
+var FLOAT64_GAMMA_LANCZOS_G = require( '@stdlib/constants-float64-gamma-lanczos-g' );
 ```
 
-#### GAMMA_LANCZOS_G
+#### FLOAT64_GAMMA_LANCZOS_G
 
 Arbitrary constant `g` to be used in [Lanczos approximation][lanczos-approximation] functions.
 
 ```javascript
-var bool = ( GAMMA_LANCZOS_G === 10.900511 );
+var bool = ( FLOAT64_GAMMA_LANCZOS_G === 10.900511 );
 // returns true
 ```
 
@@ -89,9 +89,9 @@ var bool = ( GAMMA_LANCZOS_G === 10.900511 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-var GAMMA_LANCZOS_G = require( '@stdlib/constants-float64-gamma-lanczos-g' );
+var FLOAT64_GAMMA_LANCZOS_G = require( '@stdlib/constants-float64-gamma-lanczos-g' );
 
-console.log( GAMMA_LANCZOS_G );
+console.log( FLOAT64_GAMMA_LANCZOS_G );
 // => 10.900511
 ```
 
